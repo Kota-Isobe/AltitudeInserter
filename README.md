@@ -2,6 +2,7 @@
 
 https://fgd.gsi.go.jp/download/menu.php
 
+
 ・10mメッシュ標高のインサート方法
 
 ①アプリケーションを起動
@@ -9,6 +10,7 @@ https://fgd.gsi.go.jp/download/menu.php
 ②「ファイル選択」をクリックし、標高データのXMLファイル（FG-GML-xxxx-yy-dem10b-zzzzzzzz.xml）を選択（複数ファイル選択可）
 
 ③「インサート開始」をクリックするとインサート開始
+
 
 
 ・インサートするテーブルの変更方法（プログラム内の書き換えるべき場所）
